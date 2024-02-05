@@ -41,7 +41,7 @@ Furthermore, a strong positive correlation of 0.84 was observed between mouse we
 |    Zoniferol |         53.236507 |           51.818479 |             48.533355 |               6.966589 |               0.516398 |
 
 ### Bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen
-
+![Pymaceuticals Bar Chart](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/3444aeca8e0e8e77f5dcf93a21dbe045b0b6b8f4/Pymaceuticals_barchart_screenshot.png)
 
 ### Quartiles, Outliers and Boxplots
 
@@ -71,3 +71,5 @@ Furthermore, a strong positive correlation of 0.84 was observed between mouse we
 - Upper boundary: 87.66646
 - Potential outliers: None
 
+### Box plot that shows the distrubution of the tumor volume for each treatment group
+![Pymaceuticals Box Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/3444aeca8e0e8e77f5dcf93a21dbe045b0b6b8f4/Pymaceuticals_boxplot_screenshot.png)

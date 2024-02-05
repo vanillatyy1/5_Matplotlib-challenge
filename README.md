@@ -22,6 +22,8 @@ There is a discrepancy in interpreting the question regarding the "distribution 
 
 However, this outcome is different from the starter sample chart provided in the Module 5 Challenge files, which shows that Male 51.0% and Female = 49.0%. Therefore, in the final solution, I adjusted the method to align with the starter sample chart, despite recognizing that the initial approach may be more accurate.
 
+## Summary Statistics
+
 ### Summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 
 |              | Mean Tumor Volume | Median Tumor Volume | Tumor Volume Variance | Tumor Volume Std. Dev. | Tumor Volume Std. Err. |

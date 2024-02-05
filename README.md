@@ -16,11 +16,11 @@ Similar to Capomulin, Ramicane shows no potential outliers. The range of final t
 
 Furthermore, a strong positive correlation of 0.84 was observed between mouse weight and average tumor volume across Capomulin. The correlation is represented by the linear regression equation: y=0.95x+21.55.
 
-##Note to Central Grader:##
+*Note to Central Grader:*
 
-There is a discrepancy in interpreting the question regarding the "distribution of female versus male mice." Initially, I utilized the mouse_metadata where there is only one row per mouse ID, resulting in a total of 248 mice after excluding g989. Based on this approach, there should be 125 males (50.4%) and 123 females (49.6%).
+*There is a discrepancy in interpreting the question regarding the "distribution of female versus male mice." Initially, I utilized the mouse_metadata where there is only one row per mouse ID, resulting in a total of 248 mice after excluding g989. Based on this approach, there should be 125 males (50.4%) and 123 females (49.6%).*
 
-However, this outcome is different from the starter sample chart provided in the Module 5 Challenge files, which shows that Male 51.0% and Female = 49.0%. Therefore, in the final solution, I adjusted the method to align with the starter sample chart, despite recognizing that the initial approach may be more accurate.
+*However, this outcome is different from the starter sample chart provided in the Module 5 Challenge files, which shows that Male 51.0% and Female = 49.0%. Therefore, in the final solution, I adjusted the method to align with the starter sample chart, despite recognizing that the initial approach may be more accurate.*
 
 ## Summary Statistics
 
@@ -39,6 +39,9 @@ However, this outcome is different from the starter sample chart provided in the
 |     Ramicane |         40.216745 |           40.673236 |             23.486704 |               4.846308 |               0.320955 |
 |     Stelasyn |         54.233149 |           52.431737 |             59.450562 |               7.710419 |               0.573111 |
 |    Zoniferol |         53.236507 |           51.818479 |             48.533355 |               6.966589 |               0.516398 |
+
+### Bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen
+
 
 ### Quartiles, Outliers and Boxplots
 

@@ -41,7 +41,7 @@ Furthermore, a strong positive correlation of 0.84 was observed between mouse we
 |    Zoniferol |         53.236507 |           51.818479 |             48.533355 |               6.966589 |               0.516398 |
 
 ### Bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen
-![Pymaceuticals Bar Chart](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/3444aeca8e0e8e77f5dcf93a21dbe045b0b6b8f4/Pymaceuticals_barchart_screenshot.png)
+![Pymaceuticals Bar Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/731d30fc0e61e91d777426b34bb8ca7c48cb15df/Pymaceuticals/data/Pymaceuticals_barplot_screenshot1.png)
 
 ### Quartiles, Outliers and Boxplots
 
@@ -71,5 +71,14 @@ Furthermore, a strong positive correlation of 0.84 was observed between mouse we
 - Upper boundary: 87.66646
 - Potential outliers: None
 
-### Box plot that shows the distrubution of the tumor volume for each treatment group
-![Pymaceuticals Box Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/3444aeca8e0e8e77f5dcf93a21dbe045b0b6b8f4/Pymaceuticals_boxplot_screenshot.png)
+### A box plot that shows the distrubution of the tumor volume for each treatment group
+![Pymaceuticals Box Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/731d30fc0e61e91d777426b34bb8ca7c48cb15df/Pymaceuticals/data/Pymaceuticals_boxplot_screenshot.png)
+
+### A line plot that shows the tumor volume vs. time point for one mouse treated with Capomulin
+![Pymaceuticals Line Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/731d30fc0e61e91d777426b34bb8ca7c48cb15df/Pymaceuticals/data/Pymaceuticals_lineplot_screenshot.png)
+
+### A scatter plot that shows average tumor volume vs. mouse weight for the Capomulin regimen. 
+![Pymaceuticals Scatter Plot](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/731d30fc0e61e91d777426b34bb8ca7c48cb15df/Pymaceuticals/data/Pymaceuticals_scatterplot_screenshot1.png)
+
+### The correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen.
+![Pymaceuticals Correlation Regression](https://github.com/vanillatyy1/5_Matplotlib-challenge/blob/731d30fc0e61e91d777426b34bb8ca7c48cb15df/Pymaceuticals/data/Pymaceuticals_correlation_regression_screenshot.png)

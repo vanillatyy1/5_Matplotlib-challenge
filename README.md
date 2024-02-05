@@ -16,7 +16,7 @@ Similar to Capomulin, Ramicane shows no potential outliers. The range of final t
 
 Furthermore, a strong positive correlation of 0.84 was observed between mouse weight and average tumor volume across Capomulin. The correlation is represented by the linear regression equation: y=0.95x+21.55.
 
-Note to Central Grader:
+##Note to Central Grader:##
 
 There is a discrepancy in interpreting the question regarding the "distribution of female versus male mice." Initially, I utilized the mouse_metadata where there is only one row per mouse ID, resulting in a total of 248 mice after excluding g989. Based on this approach, there should be 125 males (50.4%) and 123 females (49.6%).
 

@@ -37,3 +37,32 @@ However, this outcome is different from the starter sample chart provided in the
 |     Ramicane |         40.216745 |           40.673236 |             23.486704 |               4.846308 |               0.320955 |
 |     Stelasyn |         54.233149 |           52.431737 |             59.450562 |               7.710419 |               0.573111 |
 |    Zoniferol |         53.236507 |           51.818479 |             48.533355 |               6.966589 |               0.516398 |
+
+### Quartiles, Outliers and Boxplots
+
+**Capomulin**
+- Lower boundary: 20.70456
+- Upper boundary: 51.83202
+- Potential outliers: None
+
+---
+
+**Ramicane**
+- Lower boundary: 17.91266
+- Upper boundary: 54.30681
+- Potential outliers: None
+
+---
+
+**Infubinol**
+- Lower boundary: 36.8329
+- Upper boundary: 82.74145
+- Potential outliers: 36.321346
+
+---
+
+**Ceftamin**
+- Lower boundary: 25.35545
+- Upper boundary: 87.66646
+- Potential outliers: None
+
